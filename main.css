@@ -1,0 +1,38 @@
+*
+{
+        font-family: 'Montserrat', sans-serif;
+        background-color: black;
+}
+img{
+    height: 20rem;
+    margin-top: 10rem;
+    margin-left: 20rem;
+}
+h1{
+    color: green;
+    font-size: 10em;
+   margin-top: 15rem;
+}
+.main
+{
+    display: flex;
+    gap: 3rem;
+    /* align-items: center; */
+}
+button
+{
+    margin-left: 40rem;
+    margin-top: 1rem;
+    width: 15rem;
+    height: 4rem;
+    background-color: green;
+    color: white;
+    border: none;
+    border-radius: 30px;
+    text-align: center;
+}
+.body
+{
+    display: flex;
+    flex-direction: column;
+}
